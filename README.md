@@ -1,1 +1,1 @@
-# marj
+install camelot, ghostscript
